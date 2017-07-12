@@ -1,0 +1,11 @@
+8.6. - 11.6.17 Test Prototyp A5
+erster Meilenstein
+Beteiligte: Weiyu Zhao
+
+Schaltplan: Ergebnis: Der Aufbau funktioniert wie gedacht
+
+12.6. - 14.6.17 Test Prototyp, A6
+zweiter Meilenstein
+Beteiligte: Weiyu Zhao
+
+Ergebnis: Der Aufbau funktioniert zuerst nicht vollstaendig(Motor dreht sich nur in einer Richtung in den zwei Zustanden.). Nach dem Korriegien funktioniert der aufbau wie erwartet.
