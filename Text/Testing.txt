@@ -1,0 +1,24 @@
+Test | Motor 1
+--- | ---
+Geschrieben von | Weiyu Zhao
+Was wird getestet  | Wird sich der Motor in einer Richtung drehen?
+Dateiname | Testing_Motor1.ino
+Testergebnis | **Erfolgreich**
+-------------------------------------
+
+Tests Abgeschlossen
+1 Tests erfolgreich
+0 Tests fehlgeschlagen
+-------------------------------------
+-------------------------------------
+Test | Motor 2
+--- | ---
+Geschrieben von | Weiyu Zhao
+Was wird getestet  | Wird sich der Motor in der umgekehrten Richtung drehen?
+Dateiname | Testing_Motor2.ino
+Testergebnis | **Erfolgreich**
+-------------------------------------
+
+Tests Abgeschlossen
+2 Tests erfolgreich
+0 Tests fehlgeschlagen
