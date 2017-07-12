@@ -1,0 +1,7 @@
+A5. Gibt der Fotowiderstand das Signal dunkel aus, faehrt das Rollo runter. (Weiyu)
+
+Wenn die gemessene Helligkeit groesseer als der eingestellte Grenzwert ist, dreht sich Rollo in eine Richtung um bestimmte Drehungen. Die Zahl der Drehungen kommt auf die Hoehe des Fensters an.
+
+A6. Gibt der Fotowiderstand das Signal hell aus, faehrt das Rollo hoch. (Weiyu)
+
+Wenn die gemessene Helligkeit kleiner als der eingestellte Grenzwert ist, dreht sich Rollo in die umgekehrte Richtung um gleiche Drehungen wie Herunterfahren.

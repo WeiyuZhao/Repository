@@ -1,0 +1,21 @@
+Name des Reviewers: Weiyu Zhao
+
+Name des Entwicklers: Julian Schwalm
+
+Team des Entwicklers: Winkelgasse
+
+Dateien: Rumpf.ino
+
+git-Revision: a03eeb0c9b8b9f2fadff5f5b77ee98c6daf4c55a
+
+-Untersuchte Funktionalitaet1: Temperaturmessung
+
+Reviewergebnisse: logische Reihenfolge der Befehle, ausreichende Kommentierung.
+
+-Untersuchte Funktionalitaet2: loop (Ausgabe der Messwerte)
+
+Reviewerbegnisse: Code ist leicht zu verstehen. Ausgabe mit den dazugehoerigen Einheiten und besitzt einen Kommentar fuer den Sinn der Funktion.
+
+Untersuchte Funktionalitaet3: Ausgabe auf Lcd Display
+
+Reviewergebnisse: Einleuchtende Benennung der Variablen und Funktion, einfach zu verstehen, Kommentierung ist sehr ausfuehrlich. aber es gibt Fehler beim Kommentar zur Ausgabe

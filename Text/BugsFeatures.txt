@@ -1,0 +1,6 @@
+Bug-Report | #
+--- | ---
+Autor | Weiyu Zhao
+Welches Modul ist betroffen? | combine.ino
+Beschreibung des Fehler? | Wenn der gemessene Wert kleiner oder groesser als den Grenzwert ist, dreht sich der Motor nur in einer Richtung. 
+Wie ist der Fehler zu reproduzieren? | In der Stepperfunktion sollen die Schritte jeweils mit Vorzeichen(positiv und negativ) geschrieben werden.

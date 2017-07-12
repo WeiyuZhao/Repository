@@ -1,0 +1,14 @@
+Review | #
+--- | ---
+Name des Reviewers | Weiyu Zhao
+Name des Entwicklers | Zixin Lai
+Dateien | combine.ino
+git-Revision | c4209754124b59d05ce676638c02504dfc518ed3
+Untersuchte Funktionalitaet | Steuerung des Lichts durch den gemessenen Wert des Sensors.
+Reviewergebnisse | Z.17: Unnoetige Definition.  Variable LEDState koennte eigentlich weggelassen werden.
+" | Z.34 und Z.41 :Einnehmen und Einhalten des gemessenen Werts sind n?tig.
+" | Z.15 :Am besten sollte der Grenzwert(Helligkeit) einstellbar sein.
+" |Insgesamt: Ausf¨¹hrliche Kommentare,leihtt zu verstehen.
+  
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
