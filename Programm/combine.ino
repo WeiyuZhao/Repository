@@ -1,4 +1,7 @@
 #include <Stepper.h>
+//Autoren:Weiyu Zhao;Zixin Lai. Wegen der grossen Zusammenhang der Teilaufgaben von den zwei Leuten wurden
+//die Teilprogramme zusammen verarbeiet. Die Funktionen von Licht und Motor zeigen auf Youtube:
+//https://www.youtube.com/watch?v=V_WXb-_K3aI.  Videoname: API Projektarbeit Rollo Gruppe TU-Braunschweig
 
 // change this to the number of steps on your motor
 #define STEPS 100
